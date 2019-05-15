@@ -77,10 +77,10 @@ input[type="submit"]{
     cursor: pointer;
 }
 
-submit:hover{
+input[type="text"]:hover{
     background-color: #45a049;
 }
 
-submit:focus{
+input[type="password"]:focus{
     background-color: lightgoldenrodyellow;
 }
